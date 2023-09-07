@@ -1,4 +1,4 @@
-module logrus-hooks.git
+module logrus-hooks
 
 go 1.17
 
